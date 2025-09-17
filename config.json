@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "jimeng": {
+      "command": "python3",
+      "args": [
+        "/Users/你的用户名/Desktop/图形mcp/即梦mcp/apicore渠道/jimeng_mcp.py"
+      ],
+      "env": {
+        "APICORE_API_KEY": "sk-xxx-你的APICore密钥",
+        "JIMENG_OUTPUT_DIR": "~/Desktop/jimeng_images"
+      }
+    }
+  }
+}
