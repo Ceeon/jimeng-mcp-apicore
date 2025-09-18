@@ -29,7 +29,7 @@ setup(
     python_requires=">=3.8",
     install_requires=[
         "fastmcp>=0.1.0",
-        "httpx>=0.24.0",
+        "httpx[socks]>=0.24.0",
         "Pillow>=10.0.0",
     ],
     py_modules=["jimeng_mcp", "image_processor"],
