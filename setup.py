@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="jimeng-mcp-apicore",
-    version="1.0.1",
+    version="1.0.2",
     author="Ceeon",
     author_email="your-email@example.com",  # 替换为您的邮箱
     description="即梦AI MCP服务器 - 基于APICore平台调用doubao-seedream-4.0模型",
